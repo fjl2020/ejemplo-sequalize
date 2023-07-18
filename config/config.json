@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "fjlopez",
+    "password": "#F@33fjlpz",
+    "database": "apihamenorca",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "fjlopez",
+    "password": "#F@33fjlpz",
+    "database": "apihamenorca",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "fjlopez",
+    "password": "#F@33fjlpz",
+    "database": "apihamenorca",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
